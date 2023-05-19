@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 Am following zeri internship.My aim in this internship is to improve my skills on coding and to aquire more knowledge on 
 other programming language, networking and on pentesting...
-Am in the backend and entrepreneur track.
+Am a full stack developer but am in more of backend.And am also in entrepreneur track.Am open for all projects (business)
 Https://zeri.team
