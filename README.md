@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @la-machine
-- 👀 I’m interested in coding and cybersecurity
+- 👀 I’m interested in coding, AI and cybersecurity
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on java, python, js, networking and pentesting...
 - 📫 I'm available on Gmail to frankpythagore@gmail.com
