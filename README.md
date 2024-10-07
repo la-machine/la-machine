@@ -12,3 +12,6 @@ Am following zeri internship.My aim in this internship is to improve my skills o
 other programming language, networking and on pentesting...
 Am a full stack developer but am in more of backend.And am also in entrepreneur track.Am open for all projects (business)
 Https://zeri.team
+
+
+[![t](https://github-profile-trophy.vercel.app/?la-machine=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
