@@ -41,10 +41,10 @@ I believe that through perseverance and the power of code, even the most complex
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
+  <a href="https://medium.com/@frankpythagore" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://yourblogsite.com" target="_blank">
+  <a href="https://pythagore.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -56,8 +56,6 @@ I believe that through perseverance and the power of code, even the most complex
   <img src="https://img.shields.io/badge/Java-17+-green" alt="Java Badge" />
   <img src="https://img.shields.io/badge/Spring%20Boot-3.3.4-blue" alt="Spring Boot Badge" />
 </p>
-
-
 
 <p align="center">
 
@@ -87,7 +85,6 @@ I believe that through perseverance and the power of code, even the most complex
    <a href="https://azure.microsoft.com/en-us/services/devops/boards/" target="_blank"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure Boards" /></a>
 </p>
 
----
 
 
 ![Contributions](https://badges.pufler.dev/commits/monthly/la-machine) ![Commits](https://img.shields.io/badge/Commits%20per%20day-7-orange)
